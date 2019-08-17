@@ -1,5 +1,5 @@
 # Calc-u-Later
-Just something a have done while learning C at FATEC SP
+Just something I have done while learning C at FATEC SP
 
 ## Current features
 - Basic operations with two values
