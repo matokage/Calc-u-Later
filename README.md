@@ -10,5 +10,5 @@ Just something I have done while learning C at FATEC SP
 - Rectilinear Variable Uniform Movement calculation
 - Room floor covering calculation (Simple rectangle)
 - Volume, surface area and wight of a sphere with variable density
-
+- Termal Sensation
 #### This code was developed in Dev-C++ IDE
